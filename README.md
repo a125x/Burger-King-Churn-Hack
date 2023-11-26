@@ -17,4 +17,4 @@ And here's an impact of all the features, includeing generated ones to the model
 <img width="741" alt="image" src="https://github.com/a125x/Burger-King-Churn-Hack/assets/91656458/d013d754-e4c4-43c9-8df0-3844d87036c7">
 
 
-For more information about the soluton check our presentation!
+For more information about the soluton check out our presentation!
